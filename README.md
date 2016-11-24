@@ -8,4 +8,4 @@ Including:
 * MergeSort
 * QuickSort
 * SequentialSearch
-* BinarySearch
+* [BinarySearch](https://github.com/KristenXu/JavascriptAlgorithms/blob/master/BinarySearch.js)
