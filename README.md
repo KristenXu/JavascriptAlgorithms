@@ -1,6 +1,6 @@
 #Javascript Algorithms
 ##About
-Some basic lgorithms in javascript(ECMAScript5)
+Some basic algorithms in javascript(ECMAScript5)
 Including:
 * BubbleSort
 * SelectionSort
