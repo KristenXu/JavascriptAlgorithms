@@ -14,6 +14,5 @@ function binarySearch(target, array) {
       return ;
     }
   }
-
   return -1;
 }
