@@ -11,7 +11,7 @@ function binarySearch(target, array) {
       high = mid - 1;
     }else{
       console.log('target index is : ' + mid);
-      return ;
+      return mid;
     }
   }
   return -1;
